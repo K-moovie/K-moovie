@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there &fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=hi&fontSize=90&section=footer)
 
 🇰🇷 한 걸음 더 나아간 우리의 경험을 약속합니다.
 <!--
