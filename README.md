@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Kim_YeongHwa&fontSize=90&animation=fadeIn&fontColor=#c9c9c9)
 
-## 👓 Slogan
+## 👓 Introduce
 🚀 한 걸음 더 나아가는 우리의 경험을 약속합니다
 
 ## 📚 Tech-Stack
