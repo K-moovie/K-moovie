@@ -7,7 +7,7 @@
 
 ## SNS
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-moovie)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+[!Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-moovie)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=footer)
