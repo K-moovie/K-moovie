@@ -8,7 +8,7 @@
 ## SNS
 
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-moovie)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=K-moovie)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=footer)
