@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=footer&text=hi&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=hi&fontSize=90)
 
 🇰🇷 한 걸음 더 나아간 우리의 경험을 약속합니다.
 <!--
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=footer)
