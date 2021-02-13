@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=KIMYEONGHWA&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=KIM\nYEONGHWA&fontSize=90&animation=fadeIn)
 
 ### Hi there 👋
-🇰🇷 한 걸음더 나아간 우리의 경험을 약속합니다. 
+
 <!--
 **K-moovie/K-moovie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
