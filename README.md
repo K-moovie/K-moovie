@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Kim_YeongHwa&fontSize=90)
 
-🇰🇷 한 걸음 더 나아간 우리의 경험을 약속합니다.
+<p align="center">🇰🇷 한 걸음 더 나아간 우리의 경험을 약속합니다.</p>
 <!--
 **K-moovie/K-moovie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
