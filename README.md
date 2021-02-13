@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=KIM%YEONGHWA&fontSize=90&animation=fadeIn)
-
 ### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=YeongHwa%Kim&fontSize=90&animation=fadeIn)
+
 
 <!--
-**K-moovie/K-moovie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**K-moovie/K-moovie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
