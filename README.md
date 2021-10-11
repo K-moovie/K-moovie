@@ -3,6 +3,7 @@
 ## 👓 Introduce
 🚀 한 걸음 더 나아가는 우리의 경험을 지향합니다.
 
+
 ## 📆 Experience
 |Type|Date|Contents|Organization|
 |:--:|:--:|:------:|:----------:|
@@ -14,7 +15,6 @@
 |School Activities|2021.03 ~</br>2021. 06|[번개보다 빠른 전자제품 중고거래 서비스 Volt (Spring, MSA)](https://github.com/DEU-Volt/spring_backend)|Team.Volt|
 |External Activities|2021.07 ~</br>2021. 08|2021 부스트캠프 웹·모바일 6기 챌린지|[Naver Connect](https://boostcamp.connect.or.kr/)|
 |External Activities|2021.08 ~</br>2021. 11 (예정)|2021 부스트캠프 웹·모바일 6기 멤버십|[Naver Connect](https://boostcamp.connect.or.kr/)|
-
 
 
 ## 📚 Tech-Stack
