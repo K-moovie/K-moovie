@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kim_YeongHwa&fontSize=90&animation=fadeIn&fontColor=#c9c9c9)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KIM%20YEONG%20HWA&fontSize=90&animation=fadeIn&fontColor=#c9c9c9)
 
 ## 👓 Introduce
 🚀 한 걸음 더 나아가는 우리의 경험을 지향합니다.
