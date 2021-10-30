@@ -20,7 +20,7 @@
 |External Activities|2021. 08 ~</br>2021. 12</br>(예정)|2021 부스트캠프 웹·모바일 6기 멤버십과정|[Naver Connect](https://boostcamp.connect.or.kr/)|
 
 
-## 📚 Tech-Stack
+## 📚 Skills
 ### Language
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
