@@ -16,7 +16,7 @@
 |Intership Activities|2021. 01 ~</br>2021. 02|인간로봇상호작용을 위한 응용프로그램 개발 및 연구 보조|[ETRI-한국전자통신연구원](https://www.etri.re.kr)|
 |School Activities|2021. 03 ~</br>2021. 06|[번개보다 빠른 전자제품 중고거래 서비스: Volt (Spring, MSA)](https://github.com/DEU-Volt/spring_backend)|DEU|
 |External Activities|2021. 07 ~</br>2021. 08|2021 부스트캠프 웹·모바일 6기 챌린지|[Naver Connect](https://boostcamp.connect.or.kr/)|
-|Education|2021. 08|저격 취득: 정보처리기사|한국산업인력공단|
+|Education|2021. 08|자격 취득: 정보처리기사|한국산업인력공단|
 |External Activities|2021. 08 ~</br>2021. 12</br>(예정)|2021 부스트캠프 웹·모바일 6기 멤버십|[Naver Connect](https://boostcamp.connect.or.kr/)|
 
 
