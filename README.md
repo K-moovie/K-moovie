@@ -58,4 +58,4 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer)
 
 ## 📮 Contact
-[![Naver Mail](https://img.shields.io/badge/Naver Mail-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:kyha97@naver.com?subject=[Github])
+[![Naver Mail](https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:kyha97@naver.com?subject=[Github])
