@@ -15,9 +15,9 @@
 |External Activities|2020. 11|교내 크라우드테스팅경진대회 수상|[DEU](https://www.deu.ac.kr/www/boardview/9/1515)|
 |Intership Activities|2021. 01 ~</br>2021. 02|인간로봇상호작용을 위한 응용프로그램 개발 및 연구 보조|[ETRI-한국전자통신연구원](https://www.etri.re.kr)|
 |School Activities|2021. 03 ~</br>2021. 06|[번개보다 빠른 전자제품 중고거래 서비스: Volt (Spring, MSA)](https://github.com/DEU-Volt/spring_backend)|DEU|
-|External Activities|2021. 07 ~</br>2021. 08|2021 부스트캠프 웹·모바일 6기 챌린지과정 수료|[Naver Connect](https://boostcamp.connect.or.kr/)|
+|External Activities|2021. 07 ~</br>2021. 08|2021 부스트캠프 웹·모바일 6기 챌린지 수료|[Naver Connect](https://boostcamp.connect.or.kr/)|
 |Education|2021. 08|자격 취득: 정보처리기사|한국산업인력공단|
-|External Activities|2021. 08 ~</br>2021. 12|2021 부스트캠프 웹·모바일 6기 멤버십과정|[Naver Connect](https://boostcamp.connect.or.kr/)|
+|External Activities|2021. 08 ~</br>2021. 12|2021 부스트캠프 웹·모바일 6기 멤버십 수료|[Naver Connect](https://boostcamp.connect.or.kr/)|
 
 
 ## 📚 Skills
