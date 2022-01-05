@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KIM%20YEONG%20HWA&fontSize=90&animation=fadeIn&fontColor=#c9c9c9)
 
 ## 🎤 Introduce
-한 걸음 더 나아가는 **우리**의 **경험**을 지향합니다.
+> **우리**의 코드가 기분좋은 **경험**으로 이어지길
+- **협업**과 **경험**을 중요하게 생각하는 개발자 김영화입니다.
 
 더 자세한 정보는 [notion](https://destiny-plastic-e9d.notion.site/Kim-Yeonghwa-d3f36ebcd03e45e28575f9228fb22163)
 
