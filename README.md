@@ -4,7 +4,7 @@
 > **우리**의 코드가 기분좋은 **경험**으로 이어지길
 - **협업**과 **경험**을 중요하게 생각하는 개발자 김영화입니다.
 
-더 자세한 정보는 [notion](https://destiny-plastic-e9d.notion.site/Kim-Yeonghwa-d3f36ebcd03e45e28575f9228fb22163)
+더 자세한 정보는 [![Profile](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://destiny-plastic-e9d.notion.site/Kim-Yeonghwa-d3f36ebcd03e45e28575f9228fb22163)
 
 ## 📆 Experience
 |Type|Date|Contents|Organization|
