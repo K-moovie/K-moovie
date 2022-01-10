@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KIM%20YEONG%20HWA&fontSize=90&animation=fadeIn&fontColor=#c9c9c9)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdestiny-plastic-e9d.notion.site%2FKim-Yeonghwa-d3f36ebcd03e45e28575f9228fb22163&count_bg=%233D96C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EC%A1%B0%ED%9A%8C%EC%9E%90%EC%88%98&edge_flat=true)](https://hits.seeyoufarm.com)
 ## 🎤 Introduce
 > **우리**의 코드가 기분좋은 **경험**으로 이어지길
 - **협업**과 **경험**을 중요하게 생각하는 개발자 김영화입니다.
