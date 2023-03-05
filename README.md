@@ -3,7 +3,7 @@
 > **우리**의 코드가 기분좋은 **경험**으로 이어지길
 - **협업**과 **경험**을 중요하게 생각하는 개발자 김영화입니다.
 
-- 업데이트 되는 정보는 노션을 참고해주세요  [![Profile](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://destiny-plastic-e9d.notion.site/Kim-Yeonghwa-d3f36ebcd03e45e28575f9228fb22163)
+- 업데이트 되는 정보는 노션을 참고해주세요  [![Profile](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://destiny-plastic-e9d.notion.site/Kim-Yeonghwa-c5069140e8034c59a7ed5a93ab008448)
 
 ## 📆 Experience
 |Type|Date|Contents|Organization|
@@ -62,4 +62,5 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer)
 
 ## 📮 Contact
+[![Linked In]](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/yeonghwa-kim-1502b61a5)
 [![Naver Mail](https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:kyha97@naver.com?subject=[Github])
