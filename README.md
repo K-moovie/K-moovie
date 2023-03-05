@@ -62,5 +62,5 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer)
 
 ## 📮 Contact
-[![Linked In]](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/yeonghwa-kim-1502b61a5)
+[![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeonghwa-kim-1502b61a5)
 [![Naver Mail](https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:kyha97@naver.com?subject=[Github])
